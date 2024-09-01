@@ -21,4 +21,4 @@ Before you start, make sure you have the following installed:
 
 Learn how to use OpenSSL for asymmetric encryption, including generating keys, encrypting messages, and decrypting messages.
 
-[Link to exercise Notebook](./asymmetric_encryption/asymetric_encrpytion.ipynb)
+[Link](./asymmetric_encryption/README.md)
